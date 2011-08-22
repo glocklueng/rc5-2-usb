@@ -1,0 +1,614 @@
+Archive member included because of file (symbol)
+
+L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc176x.o (SystemInit)
+L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+                              ./src/main_mouse.o (USBRegisterRequestHandler)
+L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                              ./src/main_mouse.o (USBHwRegisterEPIntHandler)
+L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+                              ./src/main_mouse.o (USBInit)
+L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+                              ./src/main_mouse.o (USBRegisterDescriptors)
+c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc176x.o (__main)
+c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(ctype.o)
+                              c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o) (_ctype_init)
+c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+                              c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o) (_init_alloc)
+c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(helpers.o)
+                              L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+                              c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(helpers.o) (__bhs_uidivmod)
+
+Allocating common symbols
+Common symbol       size              file
+
+MouseInputReport    0x3               ./src/main_mouse.o
+__heaps             0x4               c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+__end_of_heap       0x4               c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/cr_startup_lpc176x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc176x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc176x.o
+ .text          0x00000000        0x0 ./src/main_mouse.o
+ .text          0x00000000        0x0 ./src/whichRDB.o
+ .data          0x00000000        0x0 ./src/whichRDB.o
+ .bss           0x00000000        0x0 ./src/whichRDB.o
+ .text.write_PHY
+                0x00000000        0x0 ./src/whichRDB.o
+ .text.read_PHY
+                0x00000000        0x0 ./src/whichRDB.o
+ .text.whichRDB
+                0x00000000        0x0 ./src/whichRDB.o
+ .text          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .data          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .data          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .text          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .data          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .text          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .data          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .text          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .data          0x00000000        0x0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(ctype.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+ .text._start_module__init_alloc
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+ .text._end_module__init_alloc
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(helpers.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(helpers.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(helpers.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_lmul
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_llsl
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_llsr
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_lasr
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_lcmp
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_ulcmp
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uread4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uread8
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uwrite4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uwrite8
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memcpy
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memcpy4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memmove4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memset
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memset4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memclr
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memclr4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_idiv0
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__bhs_uidivmod
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_ldiv0
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memmove
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_idiv
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uidiv
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__bhs_idivmod
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__bhs_uldivmod
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+ .text.__bhs_ldivmod
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00020000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc176x.o
+LOAD ./src/main_mouse.o
+LOAD ./src/whichRDB.o
+LOAD L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a
+LOAD L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a
+LOAD c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a
+END GROUP
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00000000     0x1ee0
+ FILL mask 0xff
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc176x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x1ee0 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x238 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x1ee0 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000238 ADDR (.bss)
+                0x000000e8        0x4 LONG 0xb0 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4       0x90 ./src/cr_startup_lpc176x.o
+                0x00000130                SVCall_Handler
+                0x00000140                TIMER2_IRQHandler
+                0x00000134                DebugMon_Handler
+                0x00000140                RIT_IRQHandler
+                0x00000140                I2C0_IRQHandler
+                0x00000120                HardFault_Handler
+                0x0000013c                SysTick_Handler
+                0x00000140                USBActivity_IRQHandler
+                0x00000140                PWM1_IRQHandler
+                0x00000138                PendSV_Handler
+                0x0000011c                NMI_Handler
+                0x00000140                I2C1_IRQHandler
+                0x00000140                EINT2_IRQHandler
+                0x00000140                UART1_IRQHandler
+                0x00000140                EINT3_IRQHandler
+                0x00000140                CANActivity_IRQHandler
+                0x00000140                TIMER3_IRQHandler
+                0x00000140                UART0_IRQHandler
+                0x0000010c                bss_init
+                0x0000012c                UsageFault_Handler
+                0x00000140                IntDefaultHandler
+                0x00000140                PLL0_IRQHandler
+                0x00000140                CAN_IRQHandler
+                0x00000140                PLL1_IRQHandler
+                0x00000140                SSP0_IRQHandler
+                0x00000140                I2S_IRQHandler
+                0x00000140                I2C2_IRQHandler
+                0x00000140                RTC_IRQHandler
+                0x00000140                TIMER0_IRQHandler
+                0x00000140                SPI_IRQHandler
+                0x000000f4                data_init
+                0x00000140                EINT1_IRQHandler
+                0x00000140                TIMER1_IRQHandler
+                0x00000140                UART2_IRQHandler
+                0x00000140                ADC_IRQHandler
+                0x00000140                SSP1_IRQHandler
+                0x00000140                USB_IRQHandler
+                0x00000140                BOD_IRQHandler
+                0x00000124                MemManage_Handler
+                0x00000140                WDT_IRQHandler
+                0x00000140                QEI_IRQHandler
+                0x00000140                EINT0_IRQHandler
+                0x00000144                ResetISR
+                0x00000140                DMA_IRQHandler
+                0x00000128                BusFault_Handler
+                0x00000140                UART3_IRQHandler
+                0x00000140                MCPWM_IRQHandler
+                0x00000140                ENET_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000184      0x178 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/main_mouse.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.HandleClassRequest
+                0x00000300       0x84 ./src/main_mouse.o
+ .text.HIDHandleStdReq
+                0x00000384       0x7c ./src/main_mouse.o
+ .text.HandleFrame
+                0x00000400       0x74 ./src/main_mouse.o
+ .text.HIDDMouseInputReport_Initialize
+                0x00000474       0x2c ./src/main_mouse.o
+                0x00000474                HIDDMouseInputReport_Initialize
+ .text.vF_RDB1768_JoystickRead
+                0x000004a0       0xd4 ./src/main_mouse.o
+                0x000004a0                vF_RDB1768_JoystickRead
+ .text.main     0x00000574      0x1b0 ./src/main_mouse.o
+                0x00000574                main
+ .text.SystemInit
+                0x00000724      0x224 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x00000724                SystemInit
+ .text._HandleRequest
+                0x00000948       0x54 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .text.StallControlPipe
+                0x0000099c       0x40 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .text.DataIn   0x000009dc       0x68 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .text.USBHandleControlTransfer
+                0x00000a44      0x218 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+                0x00000a44                USBHandleControlTransfer
+ .text.USBRegisterRequestHandler
+                0x00000c5c       0x38 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+                0x00000c5c                USBRegisterRequestHandler
+ .text.Wait4DevInt
+                0x00000c94       0x38 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .text.USBHwCmd
+                0x00000ccc       0x40 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .text.USBHwCmdWrite
+                0x00000d0c       0x40 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .text.USBHwCmdRead
+                0x00000d4c       0x48 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .text.USBHwEPRealize
+                0x00000d94       0x60 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .text.USBHwEPEnable
+                0x00000df4       0x3c L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .text.USBHwEPConfig
+                0x00000e30       0x44 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000e30                USBHwEPConfig
+ .text.USBHwRegisterEPIntHandler
+                0x00000e74       0x8c L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000e74                USBHwRegisterEPIntHandler
+ .text.USBHwRegisterDevIntHandler
+                0x00000f00       0x3c L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000f00                USBHwRegisterDevIntHandler
+ .text.USBHwRegisterFrameHandler
+                0x00000f3c       0x3c L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000f3c                USBHwRegisterFrameHandler
+ .text.USBHwSetAddress
+                0x00000f78       0x28 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000f78                USBHwSetAddress
+ .text.USBHwConnect
+                0x00000fa0       0x24 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000fa0                USBHwConnect
+ .text.USBHwNakIntEnable
+                0x00000fc4       0x20 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000fc4                USBHwNakIntEnable
+ .text.USBHwEPGetStatus
+                0x00000fe4       0x38 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00000fe4                USBHwEPGetStatus
+ .text.USBHwEPStall
+                0x0000101c       0x4c L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x0000101c                USBHwEPStall
+ .text.USBHwEPWrite
+                0x00001068       0xcc L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00001068                USBHwEPWrite
+ .text.USBHwEPRead
+                0x00001134      0x100 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00001134                USBHwEPRead
+ .text.USBHwConfigDevice
+                0x00001234       0x24 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00001234                USBHwConfigDevice
+ .text.USBHwISR
+                0x00001258      0x194 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x00001258                USBHwISR
+ .text.USBHwInit
+                0x000013ec      0x150 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                0x000013ec                USBHwInit
+ .text.HandleUsbReset
+                0x0000153c       0x14 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .text.USBInit  0x00001550       0x70 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+                0x00001550                USBInit
+ .text.USBRegisterDescriptors
+                0x000015c0       0x20 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+                0x000015c0                USBRegisterDescriptors
+ .text.USBGetDescriptor
+                0x000015e0       0xb8 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+                0x000015e0                USBGetDescriptor
+ .text.USBSetConfiguration
+                0x00001698       0xe0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .text.HandleStdDeviceReq
+                0x00001778      0x100 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .text.HandleStdInterfaceReq
+                0x00001878       0xc0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .text.HandleStdEndPointReq
+                0x00001938       0xf0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .text.USBHandleStandardRequest
+                0x00001a28       0x98 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+                0x00001a28                USBHandleStandardRequest
+ .text.USBRegisterCustomReqHandler
+                0x00001ac0       0x20 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+                0x00001ac0                USBRegisterCustomReqHandler
+ .text.__weak_main
+                0x00001ae0       0x10 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+                0x00001ae0                __main
+                0x00001ae0                __weak_main
+ .text          0x00001af0      0x36c c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(ctype.o)
+                0x00001af0                _start_module_ctype
+                0x00001bc4                islower
+                0x00001cb4                tolower
+                0x00001c14                ispunct
+                0x00001c3c                isspace
+                0x00001e50                _end_module_ctype
+                0x00001c8c                isxdigit
+                0x00001dcc                _ctype_init
+                0x00001c64                isupper
+                0x00001b24                isalpha
+                0x00001b9c                isgraph
+                0x00001afc                isalnum
+                0x00001bec                isprint
+                0x00001d2c                _set_ctype_8859
+                0x00001b74                isdigit
+                0x00001b4c                iscntrl
+                0x00001cf0                toupper
+ .text._init_alloc
+                0x00001e5c       0x18 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+                0x00001e5c                _init_alloc
+ *(.rodata .rodata.*)
+ .rodata        0x00001e74       0x6b ./src/main_mouse.o
+                0x00001ee0                . = ALIGN (0x4)
+ *fill*         0x00001edf        0x1 ff
+
+.glue_7         0x00001ee0        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00001ee0        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00001ee0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00001ee0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00001ee0                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001ee0                __exidx_end = .
+                0x00001ee0                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00001ee0
+ FILL mask 0xff
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+ *(.bss.$RESERVED*)
+
+.data           0x10000000      0x238 load address 0x00001ee0
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data          0x10000000       0x32 ./src/main_mouse.o
+ .data          0x10000032      0x204 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(ctype.o)
+                0x10000032                __ctype
+                0x10000238                . = ALIGN (0x4)
+ *fill*         0x10000236        0x2 ff
+                0x10000238                _edata = .
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x10000238       0xb0
+                0x10000238                _bss = .
+ *(.bss*)
+ .bss           0x10000238       0x14 ./src/main_mouse.o
+                0x10000238                RDBversion
+ .bss           0x1000024c       0x34 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .bss           0x10000280       0x48 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .bss           0x100002c8        0x8 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .bss           0x100002d0        0xc L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ *(COMMON)
+ COMMON         0x100002dc        0x3 ./src/main_mouse.o
+                0x100002dc                MouseInputReport
+ *fill*         0x100002df        0x1 00
+ COMMON         0x100002e0        0x8 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+                0x100002e0                __heaps
+                0x100002e4                __end_of_heap
+                0x100002e8                . = ALIGN (0x4)
+                0x100002e8                _ebss = .
+                0x100002e8                PROVIDE (end, .)
+                0x100002e8                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(RDB1768cmsis_usb_hidmouse.axf elf32-littlearm)
+
+.debug_abbrev   0x00000000      0xa01
+ .debug_abbrev  0x00000000      0x11d ./src/cr_startup_lpc176x.o
+ .debug_abbrev  0x0000011d      0x189 ./src/main_mouse.o
+ .debug_abbrev  0x000002a6      0x153 ./src/whichRDB.o
+ .debug_abbrev  0x000003f9       0xc6 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x000004bf      0x119 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_abbrev  0x000005d8      0x21d L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_abbrev  0x000007f5       0xad L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_abbrev  0x000008a2      0x15f L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_info     0x00000000     0x2e51
+ .debug_info    0x00000000      0x2a0 ./src/cr_startup_lpc176x.o
+ .debug_info    0x000002a0      0x717 ./src/main_mouse.o
+ .debug_info    0x000009b7      0x971 ./src/whichRDB.o
+ .debug_info    0x00001328      0x362 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x0000168a      0x305 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_info    0x0000198f      0xfdc L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_info    0x0000296b       0xd8 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_info    0x00002a43      0x40e L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_line     0x00000000     0x1c85
+ .debug_line    0x00000000      0x2e3 ./src/cr_startup_lpc176x.o
+ .debug_line    0x000002e3      0x48a ./src/main_mouse.o
+ .debug_line    0x0000076d      0x31d ./src/whichRDB.o
+ .debug_line    0x00000a8a      0x304 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x00000d8e      0x344 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_line    0x000010d2      0x523 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_line    0x000015f5      0x2e7 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_line    0x000018dc      0x3a9 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_macinfo  0x00000000    0x2469a
+ .debug_macinfo
+                0x00000000     0x26a9 ./src/cr_startup_lpc176x.o
+ .debug_macinfo
+                0x000026a9     0x7771 ./src/main_mouse.o
+ .debug_macinfo
+                0x00009e1a     0x6dbe ./src/whichRDB.o
+ .debug_macinfo
+                0x00010bd8     0x6d5c L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macinfo
+                0x00017934     0x1b7d L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_macinfo
+                0x000194b1     0x7a57 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_macinfo
+                0x00020f08     0x1b4d L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_macinfo
+                0x00022a55     0x1c45 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_frame    0x00000000      0x6cc
+ .debug_frame   0x00000000       0xe8 ./src/cr_startup_lpc176x.o
+ .debug_frame   0x000000e8       0xc4 ./src/main_mouse.o
+ .debug_frame   0x000001ac       0x68 ./src/whichRDB.o
+ .debug_frame   0x00000214       0x48 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_frame   0x0000025c       0xac L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_frame   0x00000308      0x27c L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_frame   0x00000584       0x48 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_frame   0x000005cc      0x100 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_loc      0x00000000      0xa20
+ .debug_loc     0x00000000       0x6e ./src/cr_startup_lpc176x.o
+ .debug_loc     0x0000006e      0x14a ./src/main_mouse.o
+ .debug_loc     0x000001b8       0xa5 ./src/whichRDB.o
+ .debug_loc     0x0000025d       0x56 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_loc     0x000002b3      0x113 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_loc     0x000003c6      0x440 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_loc     0x00000806       0x62 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_loc     0x00000868      0x1b8 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_pubnames
+                0x00000000      0x42e
+ .debug_pubnames
+                0x00000000      0x118 ./src/cr_startup_lpc176x.o
+ .debug_pubnames
+                0x00000118       0x8c ./src/main_mouse.o
+ .debug_pubnames
+                0x000001a4       0x1f ./src/whichRDB.o
+ .debug_pubnames
+                0x000001c3       0x4f L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_pubnames
+                0x00000212       0x4d L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_pubnames
+                0x0000025f      0x132 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_pubnames
+                0x00000391       0x1e L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_pubnames
+                0x000003af       0x7f L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_aranges  0x00000000      0x298
+ .debug_aranges
+                0x00000000       0x80 ./src/cr_startup_lpc176x.o
+ .debug_aranges
+                0x00000080       0x48 ./src/main_mouse.o
+ .debug_aranges
+                0x000000c8       0x30 ./src/whichRDB.o
+ .debug_aranges
+                0x000000f8       0x28 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_aranges
+                0x00000120       0x40 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_aranges
+                0x00000160       0xb8 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_aranges
+                0x00000218       0x28 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_aranges
+                0x00000240       0x58 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_ranges   0x00000000      0x258
+ .debug_ranges  0x00000000       0x78 ./src/cr_startup_lpc176x.o
+ .debug_ranges  0x00000078       0x40 ./src/main_mouse.o
+ .debug_ranges  0x000000b8       0x28 ./src/whichRDB.o
+ .debug_ranges  0x000000e0       0x20 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_ranges  0x00000100       0x38 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .debug_ranges  0x00000138       0xb0 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .debug_ranges  0x000001e8       0x20 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .debug_ranges  0x00000208       0x50 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+
+.debug_str      0x00000000     0x11d8
+ .debug_str     0x00000000      0x220 ./src/cr_startup_lpc176x.o
+                                0x248 (size before relaxing)
+ .debug_str     0x00000220      0x2cc ./src/main_mouse.o
+                                0x3dc (size before relaxing)
+ .debug_str     0x000004ec      0x3ea ./src/whichRDB.o
+                                0x50c (size before relaxing)
+ .debug_str     0x000008d6       0x85 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                                0x25b (size before relaxing)
+ .debug_str     0x0000095b      0x104 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+                                0x1d2 (size before relaxing)
+ .debug_str     0x00000a5f      0x5df L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+                                0x933 (size before relaxing)
+ .debug_str     0x0000103e       0x40 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+                                 0xe0 (size before relaxing)
+ .debug_str     0x0000107e      0x15a L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+                                0x279 (size before relaxing)
+
+.comment        0x00000000      0x204
+ .comment       0x00000000       0x2b ./src/cr_startup_lpc176x.o
+ .comment       0x0000002b       0x2b ./src/main_mouse.o
+ .comment       0x00000056       0x2b ./src/whichRDB.o
+ .comment       0x00000081       0x2b L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x000000ac       0x2b L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .comment       0x000000d7       0x2b L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .comment       0x00000102       0x2b L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .comment       0x0000012d       0x2b L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .comment       0x00000158       0x2b c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .comment       0x00000183       0x2b c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(ctype.o)
+ .comment       0x000001ae       0x2b c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+ .comment       0x000001d9       0x2b c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 ./src/cr_startup_lpc176x.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/main_mouse.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/whichRDB.o
+ .ARM.attributes
+                0x00000093       0x31 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x000000c4       0x31 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbcontrol.o)
+ .ARM.attributes
+                0x000000f5       0x31 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbhw_lpc.o)
+ .ARM.attributes
+                0x00000126       0x31 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbinit.o)
+ .ARM.attributes
+                0x00000157       0x31 L:\CAS\PSE\Workspaces\Mio\V4\V4.01\RDB1768cmsis_usbstack\Debug\libRDB1768cmsis_usbstack.a(usbstdreq.o)
+ .ARM.attributes
+                0x00000188       0x31 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000001b9       0x31 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(ctype.o)
+ .ARM.attributes
+                0x000001ea       0x31 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__init_alloc.o)
+ .ARM.attributes
+                0x0000021b       0x21 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(helpers.o)
+ .ARM.attributes
+                0x0000023c       0x31 c:/nxp/lpcxpresso_3.6.3_317/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/thumb2\libcr_eabihelpers.a(rtlib.o)
